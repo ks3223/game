@@ -65,8 +65,8 @@ font-family: fantasy;
 
 }
 .block{
-
-}
-.otvet{
-
+    font-size: 30px;
+    font-family: fantasy;
+    font-style: italic;
+    
 }
